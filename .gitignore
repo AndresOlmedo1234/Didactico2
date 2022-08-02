@@ -1,24 +1,24 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/frontend/node_modules
-/frontend/.pnp
+/frontend/didactico/node_modules
+/frontend/didactico/.pnp
 .pnp.js
 /backend/node_modules
 
 # testing
-/frontend/coverage
+/frontend/didactico/coverage
 
 # production
-/frontend/build
+/frontend/didactico/build
 
 # misc
-/frontend/.DS_Store
-/frontend/.env.local
-/frontend/.env.development.local
-/frontend/.env.test.local
-/frontend/.env.production.local
+/frontend/didactico/.DS_Store
+/frontend/didactico/.env.local
+/frontend/didactico/.env.development.local
+/frontend/didactico/.env.test.local
+/frontend/didactico/.env.production.local
 
-/frontend/npm-debug.log*
-/frontend/yarn-debug.log*
-/frontend/yarn-error.log*
+/frontend/didactico/npm-debug.log*
+/frontend/didactico/yarn-debug.log*
+/frontend/didactico/yarn-error.log*
